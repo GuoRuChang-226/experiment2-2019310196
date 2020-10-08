@@ -70,7 +70,7 @@
 
 # 五、实验结果：
 
-# ![实验结果](https://github.com/GuoRuChang-226/experiment2-2019310196/blob/main/307735ff2858e64a35e543fe97d3672.png)
+ ![实验结果](https://github.com/GuoRuChang-226/experiment2-2019310196/blob/main/307735ff2858e64a35e543fe97d3672.png)
   
 
 
