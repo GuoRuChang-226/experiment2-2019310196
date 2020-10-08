@@ -70,12 +70,14 @@
 
 # 五、实验结果：
 
-![实验结果](https://github.com/GuoRuChang-226/experiment2-2019310196/blob/main/307735ff2858e64a35e543fe97d3672.png)
+![307735ff2858e64a35e543fe97d3672.png](https://github.com/GuoRuChang-226/experiment2-2019310196/blob/main/307735ff2858e64a35e543fe97d3672.png)
+
   
 
 
 
 # 六、实验感想：
 
+通过本次实验，我认识到了private和public等几种不同的封装控制符，他们说明了面向对象的封装性，所以我们要利用他们尽可能的让访问权限降到最低，从而提高安全性。如果想使用private封装，进行私有属性的访问，那么就要使用set（）和get（）方法。
 
 
